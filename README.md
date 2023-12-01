@@ -1,6 +1,6 @@
 # Market_Basket_Analysis_for_E-Commerce 
 
-<img src=“https://github.com/1feyinwa/Market_Basket_Analysis_for_E-Commerce/blob/main/Market%20Basket%20jpeg.jpg” height="200" width="800"/>
+<img src=“https://github.com/1feyinwa/Market_Basket_Analysis_for_E-Commerce/blob/main/Market%20Basket%20jpeg.jpg” height="300" width="600"/>
 
 
 # PURPOSE OF THIS MARKET BASKET ANALYSIS
