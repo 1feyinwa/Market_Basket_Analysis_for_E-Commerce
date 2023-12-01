@@ -1,15 +1,15 @@
 # Market_Basket_Analysis_for_E-Commerce 
 
+<img src=“https://github.com/1feyinwa/Market_Basket_Analysis_for_E-Commerce/blob/main/Market%20Basket%20jpeg.jpg” height="200" width="800"/>
 
-<img src=“https://github.com/1feyinwa/Market_Basket_Analysis_for_E-Commerce/blob/main/Market%20Basket%20jpeg.jpg” height=”400” width=”300” />
 
-
-PURPOSE OF THIS MARKET BASKET ANALYSIS
+# PURPOSE OF THIS MARKET BASKET ANALYSIS
 <br>
 The major goal of this analysis is to find items that customers like to buy.  Market basket analysis will help sales and marketing teams develop more effective product placement, pricing, cross-sell, and up-sell tactics. It would help the store optimize sales strategies, inventory management, and customer experience by leveraging patterns in customer purchase behavior.
 
 <br>
-REQUIREMENTS FOR ANALYSIS
+
+# REQUIREMENTS FOR ANALYSIS
 
 - Data Preparation
 
@@ -26,8 +26,7 @@ REQUIREMENTS FOR ANALYSIS
 <br>
 
 
-
-**SUMMARY OF ANALYSIS**
+# INSIGHTS FROM ANALYSIS
 <br>
 EXPLORATORY ANALYSIS
 
@@ -55,7 +54,7 @@ MARKET BASKET ANALYSIS
 
 <br>
 
-**RECOMMENDATIONS**
+# RECOMMENDATIONS
 
 - Encourage higher volume purchases by introducing incentives for customers buying in larger quantities. This strategy aims to attract those who frequently purchase large amounts while still catering to those who buy smaller quantities.
 - Investigate the significant percentage of customers who have made fewer than four purchases. Understanding whether this is due to customer turnover or occasional bulk purchases can inform targeted retention efforts.
