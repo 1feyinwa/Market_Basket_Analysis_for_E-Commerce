@@ -1,5 +1,11 @@
 # Market_Basket_Analysis_for_E-Commerce 
 
+<br>
+
+<img src=“https://github.com/1feyinwa/Market_Basket_Analysis_for_E-Commerce/blob/main/Market%20Basket%20jpeg.jpg” height=”300” width=”200”/>
+
+<br>
+
 PURPOSE OF THIS MARKET BASKET ANALYSIS
 <br>
 The major goal of this analysis is to find items that customers like to buy.  Market basket analysis will help sales and marketing teams develop more effective product placement, pricing, cross-sell, and up-sell tactics. It would help the store optimize sales strategies, inventory management, and customer experience by leveraging patterns in customer purchase behavior.
